@@ -2,7 +2,7 @@
 
 #### Awesome, clean and elegant Visual Studio Code theme.
 
-[NoName UI in marketplace](https://marketplace.visualstudio.com/items?itemName=iseos.NoName)
+[NoName UI in marketplace](https://marketplace.visualstudio.com/items?itemName=iseos.noname-ui)
 
 ## Notable features
 
@@ -29,7 +29,7 @@ If you would like to change something, you can either open a PR, or override the
 https://code.visualstudio.com/docs/getstarted/theme-color-reference
 
 ## Recommended Plugins
-* [file-icons](https://marketplace.visualstudio.com/items?itemName=file-icons.file-icons): Beautiful icon theme.
+* [file-icons](https://marketplace.visualstudio.com/items?itemName=file-icons.file-icons): Perfect icon theme. (Colourless)
 
 ## License
 

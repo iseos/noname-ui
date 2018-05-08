@@ -1,0 +1,40 @@
+{
+    "name": "noname-ui",
+    "displayName": "NoName UI",
+    "description": "Awesome, clean and elegant Visual Studio Code theme.",
+    "version": "0.0.1",
+    "publisher": "iseos",
+    "author": {
+        "name": "Vladimir Saenko",
+        "email": "xiseos@gmail.com"
+    },
+    "homepage": "https://github.com/iseos/noname-ui",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/iseos/noname-ui"
+    },
+    "bugs": {
+        "url": "https://github.com/iseos/noname-ui/issues"
+    },
+    "engines": {
+        "vscode": "^1.23.0"
+    },
+    "galleryBanner": {
+        "color": "#232323",
+        "theme": "dark"
+    },
+    "icon": "img/noname.png",
+    "markdown": "github",
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "NoName UI",
+                "uiTheme": "vs-dark",
+                "path": "./themes/NoNameUI-color-theme.json"
+            }
+        ]
+    }
+}

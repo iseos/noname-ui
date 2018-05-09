@@ -10,7 +10,21 @@
 * Minimalist style.
 * Small colour palette.
 
-<img src="https://raw.githubusercontent.com/iseos/noname-ui/master/img/screen.png" width="900" alt="Screenshot">
+## Screenshots
+
+<img src="https://raw.githubusercontent.com/iseos/noname-ui/master/img/screen.all.png" width="900" alt="Screenshot">
+
+#### JavaScript
+
+<img src="https://raw.githubusercontent.com/iseos/noname-ui/master/img/screen.js.png" width="900" alt="Screenshot">
+
+#### Html
+
+<img src="https://raw.githubusercontent.com/iseos/noname-ui/master/img/screen.html.png" width="900" alt="Screenshot">
+
+#### Json
+
+<img src="https://raw.githubusercontent.com/iseos/noname-ui/master/img/screen.json.png" width="900" alt="Screenshot">
 
 ## Installation
 

@@ -127,7 +127,7 @@
 	},
 	"tokenColors": [
 		{
-			"name": "Blue 0",
+			"name": "Cadet Blue",
 			"scope": [
 				"meta.brace",
 				"punctuation.definition.array",
@@ -157,7 +157,7 @@
 			}
 		},
 		{
-			"name": "Blue 1",
+			"name": "Cornflower Blue",
 			"scope": [
 				"keyword.var",
 				"keyword.const",
@@ -181,7 +181,7 @@
 			}
 		},
 		{
-			"name": "Blue 2",
+			"name": "Fountain Blue",
 			"scope": [
 				"constant",
 				"keyword.other.unit"
@@ -191,7 +191,7 @@
 			}
 		},
 		{
-			"name": "Gray",
+			"name": "Shuttle Gray",
 			"scope": [
 				"comment"
 			],
@@ -200,7 +200,7 @@
 			}
 		},
 		{
-			"name": "Light green",
+			"name": "Olivine",
 			"scope": [
 				"string",
 				"markup.quote",
@@ -221,7 +221,7 @@
 			}
 		},
 		{
-			"name": "Orange 0",
+			"name": "Whiskey",
 			"scope": [
 				"entity.name.class",
 				"entity.name.function",
@@ -238,7 +238,7 @@
 			}
 		},
 		{
-			"name": "Gold",
+			"name": "Harvest Gold",
 			"scope": [
 				"entity.name.tag",
 				"storage",
@@ -250,7 +250,7 @@
 			}
 		},
 		{
-			"name": "Orange 1",
+			"name": "Japonica",
 			"scope": [
 				"entity.name.section",
 				"keyword",

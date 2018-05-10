@@ -2,7 +2,7 @@
     "name": "noname-ui",
     "displayName": "NoName UI",
     "description": "Awesome, clean and elegant Visual Studio Code theme.",
-    "version": "0.2.0",
+    "version": "1.0.0",
     "publisher": "iseos",
     "scripts": {
         "publish": "vsce publish"

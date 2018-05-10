@@ -47,4 +47,4 @@ https://code.visualstudio.com/docs/getstarted/theme-color-reference
 
 ## License
 
-[MIT License](https://github.com/iseos/NoName/blob/master/LICENSE.md)
+[MIT License](https://github.com/iseos/noname-ui/blob/master/LICENSE.md)

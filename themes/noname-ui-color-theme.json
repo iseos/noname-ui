@@ -2,7 +2,7 @@
 	"name": "NoName UI",
 	"type": "dark",
 	"colors": {
-		"focusBorder": "#1c2025",
+		"focusBorder": "#1c202500",
 		"widget.shadow": "#1b1e23",
 		"input.background": "#1c2025",
 		"input.border": "#1c2025",
@@ -214,7 +214,27 @@
 		{
 			"name": "Raven",
 			"scope": [
-				"string.quoted.docstring"
+				"string.quoted.docstring",
+				"meta.brace",
+        "punctuation.definition.arguments",
+        "punctuation.definition.array",
+        "punctuation.definition.begin.bracket",
+        "punctuation.definition.binding-pattern",
+        "punctuation.definition.block",
+        "punctuation.definition.bracket",
+        "punctuation.definition.dict",
+        "punctuation.definition.dictionary",
+        "punctuation.definition.end.bracket",
+        "punctuation.definition.list",
+        "punctuation.definition.parameters",
+        "punctuation.definition.string",
+        "punctuation.definition.tag",
+        "punctuation.other.comma",
+        "punctuation.other.period",
+        "punctuation.section",
+        "punctuation.separator",
+        "punctuation.support",
+        "punctuation.terminator"
 			],
 			"settings": {
 				"foreground": "#737c8c"

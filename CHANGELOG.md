@@ -1,6 +1,17 @@
 # Change Log
 All notable changes to the _NoName UI_ theme will be documented in this file.
 
+## [1.1.0] - 11.05.2018
+- Change
+ - list.*
+ - button.*
+ - extensionButton.*
+ - tab.activeBorder
+- Add
+ - progressBar.background
+ - panelTitle.activeBorder
+ - welcomePage.*
+
 ## [1.0.0] - 10.05.2018
 - Release
 - Add new color theme.

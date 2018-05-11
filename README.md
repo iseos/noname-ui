@@ -12,21 +12,13 @@
 
 ## Screenshots
 
-<img src="https://raw.githubusercontent.com/iseos/noname-ui/master/img/screen.all.png" width="900" alt="Screenshot">
+#### NoName UI
 
-#### JavaScript
+<img src="https://raw.githubusercontent.com/iseos/noname-ui/master/img/screen.png" width="900" alt="Screenshot">
 
-<img src="https://raw.githubusercontent.com/iseos/noname-ui/master/img/screen.js.png" width="900" alt="Screenshot">
+#### NoName UI Next
 
-#### Html
-
-<img src="https://raw.githubusercontent.com/iseos/noname-ui/master/img/screen.html.png" width="900" alt="Screenshot">
-
-#### Json
-
-<img src="https://raw.githubusercontent.com/iseos/noname-ui/master/img/screen.json.png" width="900" alt="Screenshot">
-
-## Installation
+<img src="https://raw.githubusercontent.com/iseos/noname-ui/master/img/screen-next.png" width="900" alt="Screenshot">
 
 1. Open **Extensions** sidebar panel in VS Code. `View → Extensions`
 1. Search for `NoName`

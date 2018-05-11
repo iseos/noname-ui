@@ -21,10 +21,10 @@
 <img src="https://raw.githubusercontent.com/iseos/noname-ui/master/img/screen-next.png" width="900" alt="Screenshot">
 
 1. Open **Extensions** sidebar panel in VS Code. `View → Extensions`
-1. Search for `NoName`
+1. Search for `NoName UI`
 1. Click **Install**
 1. Click **Reload**
-1. File > Preferences > Color Theme > **NoName**
+1. File > Preferences > Color Theme > **NoName UI**
 
 ## I don't like something
 

@@ -34,9 +34,6 @@ If you would like to change something, you can either open a PR, or override the
 
 https://code.visualstudio.com/docs/getstarted/theme-color-reference
 
-## Recommended Plugins
-* [file-icons](https://marketplace.visualstudio.com/items?itemName=file-icons.file-icons): Perfect icon theme. (Colourless)
-
 ## License
 
 [MIT License](https://github.com/iseos/noname-ui/blob/master/LICENSE.md)
